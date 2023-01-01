@@ -1,0 +1,26 @@
+.background {
+  background-color: #393E46;
+  height: 100vh;
+  position: relative;
+  .background-animation {
+    position: absolute;
+    p {
+      width: 30px;
+      height: 40px;
+      font-size: 40px;
+      font-weight: 600;
+      line-height: 40px;
+      overflow: hidden;
+      margin: 0;
+      position: absolute;
+    }
+    p:nth-child(1) {
+      top: (random($limit: 30)/100)* 100%;
+      left:  (random($limit: 30)/100)* 100%;
+    }
+    p:nth-child(2) {
+      top:  (random($limit: 30)/100)* 100%;
+      left:  (random($limit: 30)/100)* 100%;
+    }
+  }
+}
