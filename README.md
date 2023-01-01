@@ -6,4 +6,7 @@ Create using React.js
 
 # Packages
 
-- React.js
+- react
+- sass
+- bootstrap
+- react-bootstrap
