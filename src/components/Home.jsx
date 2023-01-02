@@ -35,7 +35,7 @@ export default function Home() {
       </Row>
       <Row>
         <Col>
-          <Button className="learn">Learn more</Button>
+          <Button id="learn">Learn more</Button>
         </Col>
       </Row>
     </Container>

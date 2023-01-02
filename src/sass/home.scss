@@ -3,16 +3,17 @@
 }
 h1 {
   span {
-    font-size: 60px;
+    font-size: 70px;
   }
 }
 h2 {
   span {
-    font-size: 50px;
+    font-size: 55px;
   }
 }
-p {
-  font-size: 18px;
+p, #learn {
+  font-family: 'League Spartan', normal;
+  font-size: 20px;
   margin: 0;
 }
 span {
@@ -20,14 +21,22 @@ span {
   font-size: 35px;
   font-weight: 800;
 }
-.learn {
+
+// position relative to be unaffected by the cursor
+#learn {
   border: 3px solid #15f178;
   background-color: transparent;
   color: rgb(206, 206, 209);
-  padding: 20px 60px;
+  padding: 10px 60px;
+  margin-top: 50px;
+  position: relative;
+  z-index: 2;
 }
-.learn:hover {
+#learn:hover {
   background-color:#15f178;
   border: 3px solid #15f178;
   color: #1e1f20;
+  outline: 30px solid rgba($color: #ffffff, $alpha: 0.1);
+  transition: outline 1s;
+  cursor: none;
 }
