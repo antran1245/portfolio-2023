@@ -10,7 +10,7 @@ function App() {
   const cursorMovement = (e) => {
       const mouseY = e.clientY
       const mouseX = e.clientX
-      cursor.current.style.transform = `translate3d(${mouseX-30}px, ${mouseY-15}px, 0)`
+      cursor.current.style.transform = `translate3d(${mouseX-20}px, ${mouseY-7}px, 0)`
   }
   useEffect(() => {
     window.addEventListener('mousemove', cursorMovement)

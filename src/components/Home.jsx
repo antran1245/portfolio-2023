@@ -21,7 +21,7 @@ export default function Home() {
       <Row>
         <Col>
           <h2>
-            I make <span>websites</span> and create <span>features</span>.
+            I build <span>websites</span> and create <span>features</span>.
           </h2>
         </Col>
       </Row>
