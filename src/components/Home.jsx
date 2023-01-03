@@ -30,8 +30,8 @@ export default function Home() {
           </Row>
           <Row>
             <Col>
-              <a href="https://www.linkedin.com/in/an-tran1245/" target={"_blank"}><span><FontAwesomeIcon icon={faLinkedin} size="xl"/></span></a>
-              <a href="https://github.com/antran1245" target={"_blank"}><FontAwesomeIcon icon={faGithub} size="xl"/></a>
+              <a href="https://www.linkedin.com/in/an-tran1245/" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="xl"/></a>
+              <a href="https://github.com/antran1245" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="xl"/></a>
             </Col>
           </Row>
           <Row>

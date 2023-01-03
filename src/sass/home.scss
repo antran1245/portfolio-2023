@@ -26,6 +26,10 @@ a {
   position: relative;
   font-size: 2em;
   margin-right: 15px;
+  color: rgb(206, 206, 209) !important;
+}
+a:hover {
+  color: #15f178 !important;
 }
 
 // position relative to be unaffected by the cursor

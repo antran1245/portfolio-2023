@@ -10,15 +10,14 @@ function App() {
   const cursor = useRef(null)
 
   const cursorMovement = (e) => {
-      const mouseY = e.clientY
-      const mouseX = e.clientX
-      cursor.current.style.transform = `translate3d(${mouseX-22}px, ${mouseY-10}px, 0)`
+    const mouseY = e.pageY
+    const mouseX = e.pageX
+    cursor.current.style.transform = `translate3d(${mouseX-22}px, ${mouseY-10}px, 0)`
   }
-
   useEffect(() => {
     window.addEventListener('mousemove', cursorMovement)
     return () => {
-      window.addEventListener('mousemove', cursorMovement)
+      window.removeEventListener('mousemove', cursorMovement)
     }
   }, [])
 
