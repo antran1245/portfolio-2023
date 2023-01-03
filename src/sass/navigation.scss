@@ -1,9 +1,15 @@
+nav {
+  background-color: #1e1f20;
+}
 span.navbar-brand {
   color: #15f178;
   cursor: none;
 }
 .navbar-brand:hover, span.navbar-brand:focus {
   color: rgb(206, 206, 209) !important;
+}
+button span {
+  font-size: 20px;
 }
 .navbar-nav {
   a {

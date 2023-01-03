@@ -3,7 +3,7 @@ import '../sass/navigation.scss'
 
 export default function Navigation() {
   return(
-    <Navbar expand="md">
+    <Navbar expand="md" fixed="top" variant="dark">
       <Container>
         <Navbar.Brand>An</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar"/>
