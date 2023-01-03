@@ -20,8 +20,9 @@ section {
   height: 100%;
 }
 .cursor {
-  width: 15px;
-  height: 15px;
+  width: 1px;
+  height: 1px;
+  border: 10px solid #15f178;
   border-radius: 50%;
   background-color: #15f178;
   position: absolute;
