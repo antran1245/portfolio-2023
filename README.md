@@ -10,3 +10,4 @@ Create using React.js
 - sass
 - bootstrap
 - react-bootstrap
+- fontawesome

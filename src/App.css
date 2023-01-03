@@ -11,12 +11,14 @@
 .container-fluid {
   background-color: #1e1f20;
   height: 100vh;
-  display: flex;
-  overflow: hidden;
-  cursor: none;
+  overflow-x: hidden;
+  /* cursor: none; */
   position: relative;
 }
-
+section {
+  display: flex;
+  height: 100%;
+}
 .cursor {
   width: 15px;
   height: 15px;
