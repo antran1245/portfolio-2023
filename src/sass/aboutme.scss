@@ -1,14 +1,16 @@
-h1 {
-  color: #15f178;
-  font-weight: 800;
-  font-size: 60px;
-}
-h2 {
-  font-weight: 700;
-}
-p {
-  margin: 0;
-  span {
+.container {
+  h1 {
     color: #15f178;
+    font-weight: 800;
+    font-size: 60px;
+  }
+  h2 {
+    font-weight: 700;
+  }
+  p {
+    margin: 0;
+    span {
+      color: #15f178;
+    }
   }
 }

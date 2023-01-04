@@ -3,6 +3,7 @@ import { Container } from 'react-bootstrap';
 import Navigation from './components/Navigation';
 import Home from './components/Home';
 import AboutMe from './components/AboutMe';
+import Projects from './components/Projects';
 import './App.css';
 
 
@@ -27,6 +28,7 @@ function App() {
       <Navigation/>
       <Home/>
       <AboutMe/>
+      <Projects/>
     </Container>
   );
 }
