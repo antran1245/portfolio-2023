@@ -4,62 +4,71 @@
     "description": "A website showing all the countries and some of their information by their flag.",
     "image": "/rest_countries.png",
     "packages": ["JavaScript", "CSS", "HTML", "TypeScript", "Next.js"],
-    "link": "https://rest-countries-eta-opal.vercel.app/"
+    "link": "https://rest-countries-eta-opal.vercel.app/",
+    "github": "https://github.com/antran1245/rest-countries"
   },
   {
     "name": "Rock Paper Scissors",
     "description": "Online Rock Paper Scissors game where the user can play against computer. User can also play a bonus style, called Rock Paper Scissors Lizard Spock.",
     "image": "/rock_paper_scissors.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "TypeScript", "Tailwind CSS"],
-    "link": "https://antran1245.github.io/rock-paper-scissors/"
+    "link": "https://antran1245.github.io/rock-paper-scissors/",
+    "github": "https://github.com/antran1245/rock-paper-scissors"
   },
   {
     "name": "Audiophile",
     "description": "An e-commerce website focus on the sale of headphones, speakers, and earphone.",
     "image": "/audiophile.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "TypeScript", "Tailwind CSS", "Sass"],
-    "link": "https://antran1245.github.io/audiophile-ecommerce/#/audiophile-ecommerce/"
+    "link": "https://antran1245.github.io/audiophile-ecommerce/#/audiophile-ecommerce/",
+    "github": "https://github.com/antran1245/audiophile-ecommerce"
   },
   {
     "name": "Password Generator",
     "description": "An application for user to generate password base on selected choices.",
     "image": "/password_generator.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "TypeScript", "Tailwind CSS"],
-    "link": "https://antran1245.github.io/password-generator/"
+    "link": "https://antran1245.github.io/password-generator/",
+    "github": "https://github.com/antran1245/password-generator"
   },
   {
     "name": "Designo",
     "description": "Responsive multi pages landing website.",
     "image": "/designo.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "Sass", "Bootstrap"],
-    "link": "https://designo-multi-page-ochre.vercel.app/"
+    "link": "https://designo-multi-page-ochre.vercel.app/",
+    "github": "https://github.com/antran1245/designo-multi-page"
   },
   {
     "name": "Jokes Board",
     "description": "A website focus on getting jokes from 4 different APIs. User can like jokes created from the APIs.",
     "image": "/joke_board.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "Sass", "Express.js", "MongoDB", "Node.js"],
-    "link": "http://54.145.154.50/"
+    "link": "http://54.145.154.50/",
+    "github": "https://github.com/antran1245/joke-board"
   },
   {
     "name": "To Do List",
     "description": "A to do list website where user can add items to the list and then can be cross out or remove from the list.",
     "image": "/todo_morning.png",
     "packages": ["JavaScript", "CSS", "HTML", "React", "Sass", "Express.js", "MongoDB", "Node.js", "Mongoose"],
-    "link": ""
+    "link": "",
+    "github": "https://github.com/antran1245/todo"
   },
   {
     "name": "Crime Report",
     "description": "A Google Map showcasing report of crimes from the San Francisco Open Data.",
     "image": "/crime_report.png",
     "packages": ["JavaScript", "CSS", "HTML", "Python", "Flask", "MySQL"],
-    "link": ""
+    "link": "",
+    "github": "https://github.com/antran1245/crime_project"
   },
   {
     "name": "Location",
     "description": "An application to notify users on when to move their car to prevent getting tickets.",
     "image": "/location.jpg",
     "packages": ["JavaScript", "CSS", "HTML", "React Native", "EXPO"],
-    "link": ""
+    "link": "",
+    "github": ""
   }
 ]
