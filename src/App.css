@@ -24,10 +24,11 @@ section {
   overflow-y: hidden;
 }
 .cursor {
-  width: 1px;
-  height: 1px;
+  width: 0px;
+  height: 0px;
   border: 10px solid #15f178;
   border-radius: 50%;
   background-color: #15f178;
   position: absolute;
+  z-index: 1;
 }
