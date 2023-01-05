@@ -13,7 +13,6 @@ h1, h2, p, a {
   background-color: #1e1f20;
   height: 100%;
   overflow: hidden;
-  cursor: none;
   position: relative;
 }
 
@@ -22,14 +21,4 @@ section {
   min-height: 100vh;
   height: 100%;
   overflow-y: hidden;
-}
-
-.cursor {
-  width: 0px;
-  height: 0px;
-  border: 10px solid #15f178;
-  border-radius: 50%;
-  background-color: #15f178;
-  position: absolute;
-  z-index: 1;
 }

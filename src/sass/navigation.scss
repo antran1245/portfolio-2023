@@ -1,9 +1,11 @@
+.navbar {
+  background-color: #1e1f20 !important;
+}
 .container {
   a.navbar-brand {
       color: #15f178;
       font-size: 24px;
       font-weight: 800;
-      cursor: none;
     }
     .navbar-brand:hover, span.navbar-brand:focus {
       color: rgb(206, 206, 209);
@@ -14,9 +16,9 @@
     .navbar-nav {
       a {
         color: rgb(206, 206, 209);
-        cursor: none;
         font-weight: 700;
         font-size: 20px;
+        cursor: none;
       } 
       a:hover {
         color: #15f178;
