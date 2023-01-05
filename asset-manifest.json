@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-2023/static/css/main.9141002f.css",
-    "main.js": "/portfolio-2023/static/js/main.38a216d1.js",
+    "main.css": "/portfolio-2023/static/css/main.80cd1078.css",
+    "main.js": "/portfolio-2023/static/js/main.759fcbfe.js",
     "static/js/787.755d6b54.chunk.js": "/portfolio-2023/static/js/787.755d6b54.chunk.js",
     "static/media/todo_night.png": "/portfolio-2023/static/media/todo_night.2e9c3d66050abaf8b282.png",
     "static/media/todo_morning.png": "/portfolio-2023/static/media/todo_morning.f9779cf86ce7cd020445.png",
@@ -15,12 +15,12 @@
     "static/media/password_generator.png": "/portfolio-2023/static/media/password_generator.10ccdb0ebb9bbacb11e3.png",
     "static/media/An_Tran_Resume.pdf": "/portfolio-2023/static/media/An_Tran_Resume.e765295746129edeff13.pdf",
     "index.html": "/portfolio-2023/index.html",
-    "main.9141002f.css.map": "/portfolio-2023/static/css/main.9141002f.css.map",
-    "main.38a216d1.js.map": "/portfolio-2023/static/js/main.38a216d1.js.map",
+    "main.80cd1078.css.map": "/portfolio-2023/static/css/main.80cd1078.css.map",
+    "main.759fcbfe.js.map": "/portfolio-2023/static/js/main.759fcbfe.js.map",
     "787.755d6b54.chunk.js.map": "/portfolio-2023/static/js/787.755d6b54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9141002f.css",
-    "static/js/main.38a216d1.js"
+    "static/css/main.80cd1078.css",
+    "static/js/main.759fcbfe.js"
   ]
 }
