@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-2023/static/css/main.9141002f.css",
+    "main.js": "/portfolio-2023/static/js/main.38a216d1.js",
+    "static/js/787.755d6b54.chunk.js": "/portfolio-2023/static/js/787.755d6b54.chunk.js",
+    "static/media/todo_night.png": "/portfolio-2023/static/media/todo_night.2e9c3d66050abaf8b282.png",
+    "static/media/todo_morning.png": "/portfolio-2023/static/media/todo_morning.f9779cf86ce7cd020445.png",
+    "static/media/crime_report.png": "/portfolio-2023/static/media/crime_report.044cb4a1a977d4fbcf99.png",
+    "static/media/audiophile.png": "/portfolio-2023/static/media/audiophile.6e785355b8c09440127e.png",
+    "static/media/designo.png": "/portfolio-2023/static/media/designo.d82af1e70bca55dc4dd0.png",
+    "static/media/rest_countries.png": "/portfolio-2023/static/media/rest_countries.8f478293e42ad58096eb.png",
+    "static/media/location.jpg": "/portfolio-2023/static/media/location.7609b08c8ced42b76de8.jpg",
+    "static/media/rock_paper_scissors.png": "/portfolio-2023/static/media/rock_paper_scissors.ef33382a3f10119fd8a7.png",
+    "static/media/joke_board.png": "/portfolio-2023/static/media/joke_board.fcaecd6b790524495454.png",
+    "static/media/password_generator.png": "/portfolio-2023/static/media/password_generator.10ccdb0ebb9bbacb11e3.png",
+    "static/media/An_Tran_Resume.pdf": "/portfolio-2023/static/media/An_Tran_Resume.e765295746129edeff13.pdf",
+    "index.html": "/portfolio-2023/index.html",
+    "main.9141002f.css.map": "/portfolio-2023/static/css/main.9141002f.css.map",
+    "main.38a216d1.js.map": "/portfolio-2023/static/js/main.38a216d1.js.map",
+    "787.755d6b54.chunk.js.map": "/portfolio-2023/static/js/787.755d6b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9141002f.css",
+    "static/js/main.38a216d1.js"
+  ]
+}
