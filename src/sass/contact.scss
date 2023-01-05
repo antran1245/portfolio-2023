@@ -1,8 +1,10 @@
-.container {
-  a {
-    font-family: 'League Spartan', normal;
-    text-decoration: none;
-    margin: 0;
-    font-weight: 800;
+#contact {
+  .container {
+    .col a {
+      font-family: 'League Spartan', normal;
+      text-decoration: none;
+      margin: 0;
+      font-weight: 800;
+    }
   }
 }

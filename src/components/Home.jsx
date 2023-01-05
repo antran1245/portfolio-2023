@@ -18,7 +18,7 @@ export default function Home() {
                 My name is <span>An Tran</span>.
               </h1>
               <h2>
-                I build <span>websites</span> and create <span>features</span>.
+                I <span>build</span> websites and create features.
               </h2>
             </Col>
           </Row>

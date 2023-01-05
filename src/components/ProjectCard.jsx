@@ -2,6 +2,7 @@ import { Card } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faLink } from '@fortawesome/free-solid-svg-icons'
+import "../sass/projects.scss"
 
 export default function ProjectCard({item}) {
 

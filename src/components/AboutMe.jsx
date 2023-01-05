@@ -10,10 +10,10 @@ export default function AboutMe() {
         <Row>
           <Col sm={6}>
             <h1>About Me</h1>
-            <p>I enjoy <span>creating</span> websites, applications, and features.</p>
-            <p>I don't give up when presented a <span>challenging</span> task.</p>
-            <p>The challenge of not knowing does not stop me from <span>making</span> because I am an active learner.</p>
-            <p>I enjoy <span>learning</span>, because I know that the more I learn, the more I can make.</p>
+            <p>I enjoy creating websites, applications, and features.</p>
+            <p>I don't give up when presented a <span>challenging task</span>.</p>
+            <p>The challenge of not knowing does not stop me from making because I am an <span>active learner</span>.</p>
+            <p>I enjoy learning, because I know that the more I learn, the more I can make.</p>
           </Col>
           <Col sm={{offset: 1}}>
             <h2>Skills</h2>
