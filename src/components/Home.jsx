@@ -39,7 +39,9 @@ export default function Home() {
           </Row>
           <Row>
             <Col>
+            <a href="#aboutme">
               <Button id="learn">Learn more</Button>
+            </a>
             </Col>
           </Row>
       </Container>
