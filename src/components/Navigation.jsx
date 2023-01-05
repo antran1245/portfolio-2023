@@ -9,10 +9,10 @@ export default function Navigation() {
         <Navbar.Toggle aria-controls="responsive-navbar"/>
         <Navbar.Collapse>
           <Nav className="ms-auto">
-            <Nav.Link>Home</Nav.Link>
-            <Nav.Link>About Me</Nav.Link>
-            <Nav.Link>Projects</Nav.Link>
-            <Nav.Link>Contact</Nav.Link>
+            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#aboutme">About Me</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

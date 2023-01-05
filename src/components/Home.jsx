@@ -5,7 +5,7 @@ import '../sass/home.scss'
 
 export default function Home() {
   return(
-    <section>
+    <section id="home">
       <Container>
           <Row>
             <Col>

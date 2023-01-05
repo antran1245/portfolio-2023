@@ -4,6 +4,7 @@ import Navigation from './components/Navigation';
 import Home from './components/Home';
 import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
+import Contact from './components/Contact';
 import './App.css';
 
 
@@ -13,7 +14,7 @@ function App() {
   const cursorMovement = (e) => {
     const mouseY = e.pageY
     const mouseX = e.pageX
-    cursor.current.style.transform = `translate3d(${mouseX-15}px, ${mouseY}px, 0)`
+    cursor.current.style.transform = `translate3d(${mouseX - 15}px, ${mouseY}px, 0)`
   }
   useEffect(() => {
     window.addEventListener('mousemove', cursorMovement)
@@ -25,10 +26,11 @@ function App() {
   return (
     <Container fluid>
       <div ref={cursor} className='cursor'></div>
-      <Navigation/>
-      <Home/>
-      <AboutMe/>
-      <Projects/>
+      <Navigation />
+      <Home />
+      <AboutMe />
+      <Projects />
+      <Contact />
     </Container>
   );
 }

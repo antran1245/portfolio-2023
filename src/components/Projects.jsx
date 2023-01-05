@@ -5,7 +5,7 @@ import '../sass/projects.scss'
 
 export default function Projects() {
   return(
-    <section>
+    <section id="projects">
       <Container>
         <Row></Row>
         <Row>
