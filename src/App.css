@@ -13,7 +13,7 @@ h1, h2, p, a {
   background-color: #1e1f20;
   height: 100%;
   overflow: hidden;
-  /* cursor: none; */
+  cursor: none;
   position: relative;
 }
 

@@ -30,6 +30,10 @@ export default function ProjectCard({item}) {
               </a> : null
             }
             {
+              item.github !== "" && item.link !== ""?
+              <span>&#x7C;</span>:null
+            }
+            {
               item.link !== ""?
               <a href={item.link}>
                 <FontAwesomeIcon icon={faLink} />

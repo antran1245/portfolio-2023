@@ -43,6 +43,9 @@
     &.links {
       text-align: center;
       font-size: 15px;
+      span {
+        margin: 0 10px;
+      }
     }
   }
 }

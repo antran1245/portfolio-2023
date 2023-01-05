@@ -5,7 +5,7 @@ export default function Navigation() {
   return(
     <Navbar expand="md" fixed="top" variant="dark">
       <Container>
-        <Navbar.Brand>An</Navbar.Brand>
+        <Navbar.Brand href="#home">An</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar"/>
         <Navbar.Collapse>
           <Nav className="ms-auto">

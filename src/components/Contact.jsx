@@ -19,7 +19,7 @@ export default function Contact() {
             <p><span><FontAwesomeIcon icon={faEnvelope}/> : </span> antran1245@gmail.com</p>
             <p>Or connect with me on <span><FontAwesomeIcon icon={faLinkedin}/> </span><a href="https://www.linkedin.com/in/an-tran1245/">Linkedin</a> and let's chat.</p>
             <p>Want to have a look at my other projects?</p>
-            <p>Have a look at my <span><FontAwesomeIcon icon={faGithub}/></span> <a href="https://github.com/antran1245">Github</a>.</p>
+            <p>Then come over to my <span><FontAwesomeIcon icon={faGithub}/></span> <a href="https://github.com/antran1245">Github</a>.</p>
           </Col>
         </Row>
       </Container>

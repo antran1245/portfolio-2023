@@ -1,6 +1,8 @@
 import { Button, Col, Container, Row } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faFile } from "@fortawesome/free-solid-svg-icons";
+import resume from '../An_Tran_Resume.pdf'
 import '../sass/home.scss'
 
 export default function Home() {
@@ -30,8 +32,9 @@ export default function Home() {
           </Row>
           <Row>
             <Col>
-              <a href="https://www.linkedin.com/in/an-tran1245/" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="xl"/></a>
-              <a href="https://github.com/antran1245" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="xl"/></a>
+              <a href="https://www.linkedin.com/in/an-tran1245/" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="xl"/><span>Linkedin</span></a>
+              <a href="https://github.com/antran1245" target={"_blank"} rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="xl"/> <span>Github</span></a>
+              <a href={resume} download><FontAwesomeIcon icon={faFile} size="xl"/><span>Resume</span></a>
             </Col>
           </Row>
           <Row>

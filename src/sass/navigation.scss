@@ -1,8 +1,9 @@
 .container {
-  span.navbar-brand {
+  a.navbar-brand {
       color: #15f178;
+      font-size: 24px;
+      font-weight: 800;
       cursor: none;
-      font-size: 20px;
     }
     .navbar-brand:hover, span.navbar-brand:focus {
       color: rgb(206, 206, 209);
