@@ -2,6 +2,7 @@
   .container {
     .card {
       border: none;
+      background-color: transparent;
     }
     .card:hover {
       .card-img-overlay {
@@ -22,6 +23,11 @@
         font-size: 24px;
         text-align: center;
       }
+      &.titleMobile {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
       &.description {
         font-size: 16px;
         font-weight: 500;
@@ -41,7 +47,7 @@
           font-weight: 500;
         }
       }
-      &.links {
+      &.links, span.links{
         text-align: center;
         a {
           font-size: 30px;

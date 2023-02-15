@@ -12,7 +12,7 @@ export default function Projects() {
           {
             data.map((item, index) => {
               return(
-                <Col md={4} key={index} className="mb-2">
+                <Col md={6} lg={4} key={index} className="mb-2">
                   <ProjectCard item={item}/>
                 </Col>
               )
