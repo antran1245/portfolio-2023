@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.262e4d1e.css",
-    "main.js": "/static/js/main.50a52951.js",
+    "main.js": "/static/js/main.53df7527.js",
     "static/js/787.755d6b54.chunk.js": "/static/js/787.755d6b54.chunk.js",
     "static/media/todo_night.png": "/static/media/todo_night.2e9c3d66050abaf8b282.png",
     "static/media/todo_morning.png": "/static/media/todo_morning.f9779cf86ce7cd020445.png",
@@ -13,14 +13,14 @@
     "static/media/rock_paper_scissors.png": "/static/media/rock_paper_scissors.ef33382a3f10119fd8a7.png",
     "static/media/joke_board.png": "/static/media/joke_board.fcaecd6b790524495454.png",
     "static/media/password_generator.png": "/static/media/password_generator.10ccdb0ebb9bbacb11e3.png",
-    "static/media/An_Tran_Resume.pdf": "/static/media/An_Tran_Resume.5e3392d2fd980eeb1e80.pdf",
+    "static/media/An_Tran_Resume.pdf": "/static/media/An_Tran_Resume.84c1b6499117ab9387ec.pdf",
     "index.html": "/index.html",
     "main.262e4d1e.css.map": "/static/css/main.262e4d1e.css.map",
-    "main.50a52951.js.map": "/static/js/main.50a52951.js.map",
+    "main.53df7527.js.map": "/static/js/main.53df7527.js.map",
     "787.755d6b54.chunk.js.map": "/static/js/787.755d6b54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.262e4d1e.css",
-    "static/js/main.50a52951.js"
+    "static/js/main.53df7527.js"
   ]
 }
